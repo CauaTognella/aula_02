@@ -1,0 +1,22 @@
+p{
+    color:rgb(181, 0, 253);
+    font-size: 50px
+}
+ 
+/* use "." para puxar uma class */
+.meio{
+    color:rgb(174, 0, 255);
+}
+/*  height mexer na altura/ width largura */
+  img {
+    height: 200px;
+    width: 400px;
+    object-fit: cover;
+    background-color: hsl(0, 59%, 41%);
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 543264px;
+  } 
+
+ 
+
+  
